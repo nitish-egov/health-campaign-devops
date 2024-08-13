@@ -104,5 +104,5 @@ modules:
       - "frontend"
       - "health"
     services:
-      - egovio/project-factory:v0.1.0-6caaf2700e-6
+      - egovio/project-factory:factory-0.1-installer-fix-d24c9ec0cd-8
       - egovio/workbench-ui:health-change-5366d1113a-534
